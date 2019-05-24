@@ -49,18 +49,6 @@
       <property name="MinWidth">20</property>
       <property name="MaxWidth">0</property>
     </property>
-    <property name="Item3" isnull="true" iskey="true">
-      <property name="Name">Content</property>
-      <property name="Caption">任务内容</property>
-      <property name="ImageAlignment">Near</property>
-      <property name="ImageIndex">-1</property>
-      <property name="ColumnEditName" />
-      <property name="VisibleIndex">2</property>
-      <property name="Visible">true</property>
-      <property name="Width">75</property>
-      <property name="MinWidth">20</property>
-      <property name="MaxWidth">0</property>
-    </property>
     <property name="Item4" isnull="true" iskey="true">
       <property name="Name">PersonName</property>
       <property name="Caption">承办人</property>
